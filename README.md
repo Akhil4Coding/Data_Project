@@ -1,0 +1,2 @@
+# Data_Project
+We want to build a model that predicts severe casaulty in road accidents. With the help of this model NHS will be able to provide predictive care for severe causality based on daily fatal accidents severity with proper care and equipment's needed  for their care. By generating this model healthcare systems can accomplish goals to give proper treatment to the patients in need and will increase a quality of care by eliminating care disparities.  
